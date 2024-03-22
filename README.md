@@ -2,11 +2,11 @@ Purpose Of The Project - To find out if Electricity price is affecting the waste
 
 WASTE DATASET FEATURES – (Waste dataset cannot be provided due to Data privacy policy)
 
-•	Contain waste price information for country Germany divided into cluster formation where each cluster represents few area of the country.
-•	In total there are 10 clusters in this dataset
-•	In total there are 4 categories of waste categories and not each cluster have all of them.
-•	The data is given on weekly basis starting from week 37 of year 2020.
-•	The waste price (wpreis) basically means the amount supplier has to pay to get the waste materials (when wpreis is negative) or the amount the suppliers get to take the waste materials ( when wpreis is positive).
+- Contain waste price information for country Germany divided into cluster formation where each cluster represents few area of the country.
+- In total there are 10 clusters in this dataset
+- In total there are 4 categories of waste categories and not each cluster have all of them.
+- The data is given on weekly basis starting from week 37 of year 2020.
+- The waste price (wpreis) basically means the amount supplier has to pay to get the waste materials (when wpreis is negative) or the amount the suppliers get to take the waste materials ( when wpreis is positive).
 
 ELECTRICITY DATASET
 Datum - date of the day.
