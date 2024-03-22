@@ -1,5 +1,7 @@
-Purpose Of The Project- To find out if Electricity price is affecting the waste price for suppliers in Germany.
+Purpose Of The Project - To find out if Electricity price is affecting the waste price for suppliers in Germany.
+
 WASTE DATASET FEATURES – (Waste dataset cannot be provided due to Data privacy policy)
+
 •	Contain waste price information for country Germany divided into cluster formation where each cluster represents few area of the country.
 •	In total there are 10 clusters in this dataset
 •	In total there are 4 categories of waste categories and not each cluster have all of them.
